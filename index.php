@@ -22,9 +22,7 @@
         <img src="./img/Jurassic Park (7).png" alt="Portão">       
       </div>
 
-      <div class="BntM1">
-        <a href="./Components/Login.php"><img src="./img/Jurassic Park (9).png" alt="Botão Login"></a>
-      </div>
+     
 
       <div class="BntM2">
         <a href="./Components/Dino.php"><img src="./img/Jurassic Park (10).png" alt="Botão Dinos"></a>
